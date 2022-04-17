@@ -21,7 +21,6 @@ components.html(
 # Add all your application here
 app.add_app("Home", home.app)
 app.add_app("Long Short Term Memory", lstm.app)
-app.add_app("Random Forest", rf.app)
 # The main app
 app.run()
 
